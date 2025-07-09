@@ -1,0 +1,2 @@
+Loader 1,online,1.00.01,https://
+Loader 2,online,1.00.01,https://
