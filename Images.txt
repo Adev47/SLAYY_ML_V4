@@ -1,5 +1,5 @@
 Logo,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/slayy_default_logo2.png
-News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/support_sentence_v1.png
+News_Page,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/support_sentence_v2.png
 Lateral_Menu,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/slayy_default_lateral.png
 Background,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/slay_default_background.png
 BO6,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_BO6_category_wallp.png
