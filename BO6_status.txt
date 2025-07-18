@@ -1,2 +1,2 @@
-Loader 1,online,1.00.01,https://
+External Unlocker,online,1.00.01,https://
 Elite External Chair,online,1.00.02,https://cloud.anewvision.fr/1300819676389048391/Loader.exe
