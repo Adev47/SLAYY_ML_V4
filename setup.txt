@@ -6,7 +6,7 @@ main_widgets_color = #050505
 
 [links]
 discord_link = https://discord.gg/slayyshop
-guide_link = https://www.gitbook.com/
+guide_link = https://slayy-shop-loader.gitbook.io/slayy-shop-guide/
 website_link = https://slayyshop.mysellauth.com/
 
 [rounded_corners]
