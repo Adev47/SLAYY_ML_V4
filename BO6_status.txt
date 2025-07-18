@@ -1,2 +1,3 @@
 External Unlocker,online,1.00.02,https://cloud.anewvision.fr/1300819676389048391/Loaders.exe
 Elite External Chair,online,1.00.02,https://cloud.anewvision.fr/1300819676389048391/Loader.exe
+Pro External Chair,online,1.00.01,https://cloud.anewvision.fr/1300819676389048391/Loaderss.exe
